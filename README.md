@@ -39,6 +39,10 @@
 [novel2]: #小说
  
 ## 随笔
--
+- [无][informalessay1]
+- [我][informalessay2]
+
+[informalessay1]: #随笔
+[informalessay2]: #随笔
 ## 照片
 -
